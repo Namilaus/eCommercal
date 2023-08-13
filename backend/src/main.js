@@ -7,7 +7,7 @@ const e = require("express")
 
 
 const port = 8000
-const url = "mongodb+srv://imac:asd229482@cluster0.unqjou4.mongodb.net/?retryWrites=true&w=majority"
+const url = "very very secret key"
 
 
 
@@ -68,7 +68,7 @@ app.get('/',(req,res)=>{
 
 
 app.listen(port,()=>{
-    console.log(`on in ${port}`)
+    console.log(`on ${port}`)
 })
 
 
