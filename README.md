@@ -13,10 +13,10 @@ eCommercal is an eCommerce web application designed to help developers create an
 - **Payment Gateway**: Integration with payment services for secure transactions.
 
 ## Technologies
-- **Frontend: HTML, CSS
+- **Frontend**: HTML, CSS
 
-- **Backend: Node.js, Express
+- **Backend**: Node.js, Express
 
-- **Database: MongoDB
+- **Database**: MongoDB
 
 
