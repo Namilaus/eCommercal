@@ -2,7 +2,9 @@
 
 ## Overview
 
-eCommercal is an eCommerce web application designed to help developers create and customize a fully functional online store. The project aims to provide a simple and flexible platform suitable for both beginners and experienced developers.
+
+
+eCommercal is a side-project created to help me gain experience by developing and customizing a fully functional online store. The project provides a simple and flexible platform suitable for enhancing my skills in web development.
 
 ## Features
 
